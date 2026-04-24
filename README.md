@@ -1,3 +1,10 @@
-[0410.1.html](https://github.com/user-attachments/files/27050043/0410.1.html)
-[0410.2.html](https://github.com/user-attachments/files/27050044/0410.2.html)[0417.1.html](https://github.com/user-attachments/files/27050046/0417.1.html)
-[0410.3.html](https://github.com/user-attachments/files/27050045/0410.3.html)
+gcena2026-blip.github.io/
+index.html
+1/
+  index.html
+2/
+  index.html
+2/
+  index.html
+2/
+  index.html
