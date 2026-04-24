@@ -1,4 +1,3 @@
-<!doctype>
 <html>
 <head>
 <meta charset="utf-8">
@@ -25,9 +24,7 @@
 			<div>
 			emo cbeni
 			</div>
-				</aside>
 				po mir mo
-				</aside>
 			</article>
 		</section>
 		<footer>
@@ -43,5 +40,3 @@
 				<li>Erisa</li>
 			</ol>        
 		</footer>
-	</div>
-</html>
